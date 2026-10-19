@@ -7,3 +7,7 @@
 这是无构建依赖的静态站点，可由 GitHub Pages 直接提供。页面中的完整方案下载来自同站 Markdown 文件。
 
 居民美术保留原有权利，见 [美术说明](assets-notice.md)。
+
+当前规则与下载为 [v0.4](downloads/harbor-agent-sandbox-v0.4.md)。每名 NPC 每轮最多一次模型决策、一个主要行动及最多一条有限消息；沟通主行动不再附加消息，消息不执行交易或签约。工具借用首轮允许，金融借贷后置。
+
+历史 [v0.3](downloads/harbor-agent-sandbox-v0.3.md) 已被 v0.4 替代，仅供版本比对。
